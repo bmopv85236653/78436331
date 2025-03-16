@@ -1,3 +1,4 @@
+while (rs.next())
 BufferedWriter out = null;
 // error processing code
 Class.forName(driverClass);
