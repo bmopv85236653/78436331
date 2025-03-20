@@ -1,3 +1,4 @@
+Connection con;
 String password = props.getProperty("db.password");
 } catch (IOException e) {
 while (rs.next())
