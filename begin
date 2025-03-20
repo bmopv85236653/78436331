@@ -1,3 +1,4 @@
+if (out != null) {
 Connection con;
 String password = props.getProperty("db.password");
 } catch (IOException e) {
