@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 if (out != null) {
 Connection con;
 String password = props.getProperty("db.password");
